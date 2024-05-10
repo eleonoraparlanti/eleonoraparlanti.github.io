@@ -36,6 +36,7 @@ I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams.
 
 I enjoy skiing, hiking, biking, basically everything you can do in mountains.
 
-<img alt="Biking" height="100" src="https://eparlanti.me/assets/img/biking.JPG" width="120"/>
-<img alt="Hicking" height="100" src="https://eparlanti.me/assets/img/hiking.jpg" width="140"/>
-<img alt="skiing" height="100" src="https://eparlanti.me/assets/img/skiing.jpeg" width="140"/>
+<img alt="Biking" height="300" src="https://eparlanti.me/assets/img/biking.JPG" width="400"/>
+<img alt="Hicking" height="300" src="https://eparlanti.me/assets/img/hiking.jpg" width="400"/>
+<img alt="skiing" height="300" src="https://eparlanti.me/assets/img/skiing.jpg" width="400"/>
+<img alt="hiking" height="300" src="https://eparlanti.me/assets/img/hiking_pt_2.jpg" width="400"/>
