@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bbf7cc-00cb-4c74-b7b9-a804b58195e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/IMG_20200523_190045_Original.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon_ep.jpg" afterDir="false" />
-    </list>
-    <list id="8c842f0e-cc81-4af4-ab9b-8e5583da010f" name="Changes by federicosilvestri" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="b9bbf7cc-00cb-4c74-b7b9-a804b58195e9" name="Changes" comment="" />
+    <list id="8c842f0e-cc81-4af4-ab9b-8e5583da010f" name="Changes by federicosilvestri" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,18 +13,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/_config.yml">
-      <ranges>
-        <range start1="26" end1="27" start2="26" end2="27" changelist="b9bbf7cc-00cb-4c74-b7b9-a804b58195e9" />
-        <range start1="34" end1="35" start2="34" end2="35" changelist="b9bbf7cc-00cb-4c74-b7b9-a804b58195e9" />
-        <range start1="89" end1="90" start2="89" end2="90" changelist="8c842f0e-cc81-4af4-ab9b-8e5583da010f" />
-        <range start1="97" end1="100" start2="97" end2="100" changelist="b9bbf7cc-00cb-4c74-b7b9-a804b58195e9" />
-        <range start1="104" end1="105" start2="104" end2="105" changelist="8c842f0e-cc81-4af4-ab9b-8e5583da010f" />
-        <range start1="262" end1="263" start2="262" end2="263" changelist="8c842f0e-cc81-4af4-ab9b-8e5583da010f" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -115,7 +97,7 @@
       <updated>1707579178605</updated>
       <workItem from="1707579180450" duration="4702000" />
       <workItem from="1713001621500" duration="133000" />
-      <workItem from="1715161221313" duration="5069000" />
+      <workItem from="1715161221313" duration="5365000" />
     </task>
     <servers />
   </component>
