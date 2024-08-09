@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: ALMA hints at the presence of turbulent disk galaxies at z > 5
+subtitle: 
+cover-img: /assets/img/main_sequence_z_5_paper.png
+thumbnail-img: /assets/img/main_sequence_z_5_paper.png
+share-img: /assets/img/main_sequence_z_5_paper.png
+tags: [high-z, kinematics]
+author: E. Parlanti, S. Carniani, A. Pallottini, M. Cignoni, G. Cresci, M. Kohandel, F. Mannucci, and A. Marconi 
+
+High-redshift galaxies are expected to be more turbulent than local galaxies because of their smaller size and higher star formation and thus stronger feedback from star formation, frequent mergers events, and gravitational instabilities. However, this
+scenario has recently been questioned by the observational evidence of a few galaxies at z ∼ 4 − 5 with a gas velocity dispersion similar to what is observed in the local population.
+Our goal is to determine whether galaxies in the first billion years of the Universe have already formed a dynamically cold
+rotating disk similar to the local counterparts.
+In this work we studied the gas kinematic of 22 main-sequence star-forming galaxies at z > 5 and determined their dynamical state by estimating the ratio of the rotational velocity and of the gas velocity dispersion. We mined the ALMA public archive and exploited the [C II] and [O III] observations to perform a kinematic analysis of the cold and warm gas of z > 5 main-sequence galaxies. We
+compared our results with what was found in the local and distant Universe and investigated the evolution of the gas velocity dispersion with redshift. We also compared the observations with theoretical expectations to assess the main driver of the gas turbulence at z > 5.
+The gas kinematics of the high-z galaxy population observed with ALMA is consistent within the errors with rotating but turbulent disks. We indeed infer a velocity dispersion that is systematically higher by 4-5 times than the local galaxy population and
+the z ∼ 5 dust-obscured galaxies reported in the literature. The difference between our results and those reported at similar redshift can be ascribed to the systematic difference in the galaxy properties in the two samples: the disks of massive dusty galaxies are dynamically colder than the disks of dust-poor galaxies. The comparison with the theoretical predictions suggests that the main driver
+of the velocity dispersion in high-redshift galaxies is the gravitational energy that is released by the transport of mass within the disk. Finally, we stress that future deeper ALMA high-angular resolution observations are crucial to constrain the kinematic properties of high-z galaxies and to distinguish rotating disks from kiloparsec-scale mergers.
+
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
-
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.

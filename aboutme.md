@@ -34,7 +34,7 @@ I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams.
 
 ### Other interests
 
-I enjoy skiing, hiking, biking, basically everything you can do in mountains.
+I enjoy skiing, hiking, biking, basically everything you can do on the mountains.
 
 <img alt="Biking" height="300" src="https://eparlanti.me/assets/img/biking.JPG" width="400"/>
 <img alt="Hicking" height="300" src="https://eparlanti.me/assets/img/hiking.jpg" width="400"/>
