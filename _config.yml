@@ -21,6 +21,7 @@ author: Eleonora Parlanti
 
 navbar-links:
   About Me: "aboutme"
+  CACTUS : "cactus"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -53,20 +54,21 @@ social-network-links:
   email: "eleonora.parlanti@sns.it"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: eleonora.parlanti
-  github: eleonora.parlanti
+  github: eleonoraparlanti
   twitter: EleParlanti
   ORCID: 0000-0002-7392-7814
+  linkedin: eleonor-parlanti
+  instagram: eleonora.parlanti
+  google-scholar: HPeENUMAAAAJ
 
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  patreon: DeanAttali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -77,7 +79,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -97,7 +98,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -120,7 +121,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -128,7 +129,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "AGN,kinematics,high-redshift,galaxies,black-holes"
 
 ######################################
 # --- Colours / background image --- #
@@ -293,7 +294,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
   - docs/
 
 plugins:

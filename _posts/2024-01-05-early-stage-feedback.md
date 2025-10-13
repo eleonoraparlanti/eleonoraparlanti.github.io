@@ -1,0 +1,14 @@
+---
+layout: post
+title: "GA-NIFS: Early-stage feedback in a heavily obscured active galactic nucleus at z = 4.76"
+gh-badge: [star, fork, follow]
+tags: [kinematics, AGN, JWST, outflows]
+comments: false
+mathjax: true
+author: "E. Parlanti S. Carniani H. Übler G. Venturi C. Circosta F. D'Eugenio S. Arribas A. Bunker S. Charlot N. Lützgendorf R. Maiolino M. Perna B. Rodríguez Del Pino C. Willott T. Böker A. Cameron J. Chevallard G. Cresci G. Jones N. Kumari I. Lamperti J. Scholtz"
+---
+
+Dust-obscured galaxies are thought to represent an early evolutionary phase of massive galaxies in which the active galactic nucleus (AGN) is still deeply buried in significant amounts of dusty material and its emission is strongly suppressed. The unprecedented sensitivity of the James Webb Space Telescope (JWST) enabled us for the first time to detect the rest-frame optical emission of heavily obscured AGNs and unveil the properties of the hidden accreting super-massive black holes (BHs). In this work, we present the JWST/NIRSpec integral field spectroscopy (IFS) data of ALESS073.1, a massive $$(\log(M_{\star}/M_{\odot}) = 10.98)$$ dusty, star-forming galaxy at z = 4.755 hosting an AGN at its center. The detection of a very broad (> 9000 km s−1) Hα emission associated with the broad line region (BLR) confirms the presence of a BH $$(\log(M_{BH}/M_{\odot}) > 8.7)$$ accreting at less than 18% of its Eddington limit. The identification of the BLR classifies the target as a type 1 AGN despite the observed high column density of $$N_H ∼ 10^{24}$$ cm$$^{−2}$$. The rest-frame optical emission lines also reveal a fast (∼1700 km s$$^{−1}$$) ionized gas outflow marginally resolved in the galaxy center. The high sensitivity of NIRSpec allowed us to perform the kinematic analysis of the narrow Hα component, which indicates that the warm ionized gas velocity field is consistent with disk rotation. Interestingly, we find that in the innermost nuclear regions (< 1.5 kpc), the intrinsic velocity dispersion of the disk reaches ∼150 km s−1, which is ∼2 − 3 times higher than the velocity dispersion inferred from the [C II] 158 μm line tracing mostly cold gas. Since at large radii the velocity dispersion of the warm and cold gas are comparable, we conclude that the outflows are injecting turbulence in the warm ionized gas in the central region, but they are not sufficiently powerful to disrupt the dense gas and quench star formation. These findings support the scenario that dust-obscured galaxies represent the evolutionary stage preceding the unobscured quasar when all gas and dust are removed from the host.
+
+
+<i>To read the full paper click <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..24P/abstract">here</a></i>

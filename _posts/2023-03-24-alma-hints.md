@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/main_sequence_z_5_paper.png
 thumbnail-img: /assets/img/main_sequence_z_5_paper.png
 share-img: /assets/img/main_sequence_z_5_paper.png
-tags: [high-z, kinematics]
+tags: [high-z, kinematics, ALMA, galaxies]
 author: E. Parlanti, S. Carniani, A. Pallottini, M. Cignoni, G. Cresci, M. Kohandel, F. Mannucci, and A. Marconi 
 ---
 High-redshift galaxies are expected to be more turbulent than local galaxies because of their smaller size and higher star formation and thus stronger feedback from star formation, frequent mergers events, and gravitational instabilities. However, this
@@ -20,3 +20,4 @@ of the velocity dispersion in high-redshift galaxies is the gravitational energy
 
 
 
+<i>To read the full paper click <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.153P/abstract">here</a></i>

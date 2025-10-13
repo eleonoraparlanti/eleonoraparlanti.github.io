@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 
-I am Eleonora Parlanti, a second year PhD student in Astrophysics in Scuola Normale Superiore in Pisa, Italy.
+I am Eleonora Parlanti, a 4-th year PhD student in Astrophysics in Scuola Normale Superiore in Pisa, Italy.
 I study galaxy properties in the early Universe by using JWST and ALMA data. 
 I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams. 
 
@@ -12,8 +12,7 @@ I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams.
 #### **Education**
 
 **2022 - 2026**  &nbsp;&nbsp;  PhD in Physics (Astronomy and  Astrophysics), _Scuola Normale Superiore (Italy)_  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: S. Carniani 
-
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: S. Carniani 
 
 **2019 - 2022**  &nbsp;&nbsp;  MSc. in Physics (Astronomy and  Astrophysics), _University of Pisa (Italy)_  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis: _“Galaxy evolution in the first Gyrs of the Universe: investigating gas kinematic properties with ALMA"_   
@@ -30,6 +29,9 @@ I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams.
 ---
 
 
+For my full CV, you can download it <a href="{{ 'assets/pdfs/cv.pdf' | relative_url }}">here</a>.
+
+
 ### Other interests
 
 I enjoy skiing, hiking, biking, basically everything you can do on the mountains.
@@ -38,3 +40,4 @@ I enjoy skiing, hiking, biking, basically everything you can do on the mountains
 <img alt="Hicking" height="300" src="https://eparlanti.me/assets/img/hiking.jpg" width="400"/>
 <img alt="skiing" height="300" src="https://eparlanti.me/assets/img/skiing.jpg" width="400"/>
 <img alt="hiking" height="300" src="https://eparlanti.me/assets/img/hiking_pt_2.jpg" width="400"/>
+
