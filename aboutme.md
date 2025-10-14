@@ -7,7 +7,7 @@ title: About me
 
 I am Eleonora Parlanti, a 4-th year PhD student in Astrophysics in Scuola Normale Superiore in Pisa, Italy.
 I study galaxy properties in the early Universe by using JWST and ALMA data. 
-I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams. 
+I'm a member of [JADES](https://jades-survey.github.io/) and [GA-NIFS](https://ga-nifs.github.io/) GTO teams. 
 
 {% include education.html %}
 
