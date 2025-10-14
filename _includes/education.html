@@ -1,0 +1,33 @@
+<h2>Education</h2>
+
+<div class="timeline">
+  {% for edu in site.data.education %}
+  <div class="timeline-item">
+    <div class="timeline-left">
+      <span class="timeline-year">{{ edu.years }}</span>
+    </div>
+    <div class="timeline-content">
+      <h3>{{ edu.title }}</h3>
+      <h4>{{ edu.institution }}</h4>
+
+
+      {% if edu.description %}
+      <p>{{ edu.description }}</p>
+      {% endif %}
+      
+      {% if edu.thesis %}
+      <p><strong>Thesis:</strong> "<i>{{ edu.thesis }}</i>"</p>
+      {% endif %}
+
+      {% if edu.supervisor %}
+      <p><strong>Supervisor: </strong>{{ edu.supervisor }}</p>
+      {% endif %}
+
+      {% if edu.grade %}
+      <p><strong>Final mark:</strong> {{ edu.grade }}</p>
+      {% endif %}
+      
+    </div>
+  </div>
+  {% endfor %}
+</div>

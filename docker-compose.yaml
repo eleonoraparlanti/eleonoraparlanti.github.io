@@ -1,8 +1,7 @@
 services:
   jekyll:
-    image: jekyll/jekyll:latest
-    command: jekyll serve --watch --verbose
+    image: bretfisher/jekyll-serve
     ports:
       - 4000:4000
     volumes:
-      - .:/srv/jekyll
+      - .:/site

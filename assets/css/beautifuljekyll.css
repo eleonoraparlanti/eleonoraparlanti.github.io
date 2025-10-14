@@ -1123,3 +1123,52 @@ pre {
     display: inline-block;
   }
 }
+
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  border-left: 3px solid #ccc;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -11px;
+  top: 0.4rem;
+  width: 12px;
+  height: 12px;
+  background-color: #007acc;
+  border-radius: 50%;
+}
+
+.timeline-year {
+  font-weight: bold;
+  color: #007acc;
+  font-size: 0.9rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-content h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.timeline-content h4 {
+  margin: 0.2rem 0;
+  font-weight: normal;
+  color: #555;
+}
+
+.timeline-content p {
+  margin: 0.3rem 0;
+  color: #666;
+}
