@@ -14,7 +14,7 @@ I'm a member of [JADES](https://jades-survey.github.io/) and GA-NIFS GTO teams.
 For my full CV, you can download it <a href="{{ 'assets/pdfs/cv.pdf' | relative_url }}">here</a>.
 
 
-### Other interests
+## Other interests
 
 I enjoy skiing, hiking, biking, basically everything you can do on the mountains.
 
