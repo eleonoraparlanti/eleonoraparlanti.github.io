@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "GA-NIFS: Early-stage feedback in a heavily obscured active galactic nucleus at z = 4.76"
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/early_stage_feedback_header.png
+thumbnail-img: /assets/img/early_stage_feedback.png
+share-img: /assets/img/early_stage_feedback.png
 tags: [kinematics, AGN, JWST, outflows]
 comments: false
 mathjax: true

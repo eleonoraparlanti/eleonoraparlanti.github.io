@@ -3,7 +3,7 @@ layout: post
 title: "GA-NIFS: Multiphase analysis of a star-forming galaxy at z ∼ 5.5"
 subtitle: 
 cover-img:
-thumbnail-img:
+thumbnail-img: /assets/img/multiphase_img.png
 share-img:
 tags: [high-z, kinematics, ALMA, galaxies, outflows, JWST]
 author: "E. Parlanti S. Carniani G. Venturi R. Herrera-Camus S. Arribas A. Bunker S. Charlot F. D'Eugenio R. Maiolino M. Perna H. Übler T. Böker G. Cresci M. Curti G. Jones I. Lamperti P. Pérez-González B. Del Pino S. Zamora"

@@ -18,8 +18,8 @@ For my full CV, you can download it <a href="{{ 'assets/pdfs/cv.pdf' | relative_
 
 I enjoy skiing, hiking, biking, basically everything you can do on the mountains.
 
-<img alt="Biking" height="300" src="https://eparlanti.me/assets/img/biking.JPG" width="400"/>
-<img alt="Hicking" height="300" src="https://eparlanti.me/assets/img/hiking.jpg" width="400"/>
-<img alt="skiing" height="300" src="https://eparlanti.me/assets/img/skiing.jpg" width="400"/>
-<img alt="hiking" height="300" src="https://eparlanti.me/assets/img/hiking_pt_2.jpg" width="400"/>
+<img alt="Biking" height="300" src="{{ 'assets/img/biking.JPG' | relative_url }}" width="400"/>
+<img alt="Hicking" height="300" src="{{ 'assets/img/hiking.jpg' | relative_url }}" width="400"/>
+<img alt="skiing" height="300" src="{{ 'assets/img/skiing.jpg' | relative_url }}" width="400"/>
+<img alt="hiking" height="300" src="{{ 'assets/img/hiking_pt_2.jpg' | relative_url }}" width="400"/>
 
